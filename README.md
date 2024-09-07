@@ -1,7 +1,7 @@
 # Myujimito
 
 ## Introduction
-It's Windows only application made entirely in Python that allows to set a maximum volume thresold. The code is far from being perfect and well optimised, but at least it works (on my machine). The reason I created this application is for a problem that I may be the only one having, when listening to musics I increase too much the volume at the point where it's too loud, and I don't want to have hearing loss issues 
+It's a Windows only application made entirely in Python that allows to set a maximum volume thresold that you can't exceed. The code is far from being perfect and well optimised, but at least it works (on my machine). The reason I created this application is for a problem that I may be the only one having, when listening to musics I increase too much the volume at the point where it's too loud, and I don't want to have hearing loss issues 
 
 
 ## How it works ?
